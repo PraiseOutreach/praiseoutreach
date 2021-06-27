@@ -1,0 +1,41 @@
+body {
+  /*font:  Verdana, Arial, Helvetica, sans-serif;*/
+  background-color: #000000;
+  margin: 0;
+  font-family: Roboto;
+  font-weight: 500;
+}
+
+.ref {
+  /* REACH 2021 */
+
+position: absolute;
+width: 904px;
+height: 343px;
+left: 297px;
+top: 1471px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 120px;
+line-height: 141px;
+text-align: center;
+letter-spacing: 0.39em;
+color: #navy;
+}
+
+.container {
+  width: 80%;
+  margin: 0, auto;
+}
+
+header {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+.logo {
+  float: left;
+}
