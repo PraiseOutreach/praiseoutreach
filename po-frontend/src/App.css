@@ -1,0 +1,510 @@
+body {
+  /*font:  Verdana, Arial, Helvetica, sans-serif;*/
+  background-color: #000000;
+  text-align: center;
+}
+
+.background{
+position: absolute;
+width: 382px;
+height: 66px;
+left: 780px;
+top: 1650px;
+}
+
+.eve > h1{
+/* FIND AN EVENT */
+
+position: absolute;
+width: 382px;
+height: 66px;
+left: 780px;
+top: 1650px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+letter-spacing: 0.065em;
+text-transform: capitalize;
+color: #FF5A36;
+
+}
+
+
+
+.ref > p{
+  /* REACH 2021 */
+
+position: absolute;
+width: 904px;
+height: 343px;
+left: 250px;
+top: -250px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 120px;
+line-height: 141px;
+text-align: center;
+letter-spacing: 0.39em;
+color: #FFFFFF;
+}
+
+.cont1 > p {
+/* Home */
+
+
+position: absolute;
+width: 748px;
+height: 42px;
+left: 861px;
+top: 5px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.cont2 > p {
+/* Serve */
+
+
+position: absolute;
+width: 748px;
+height: 42px;
+left: 1030px;
+top: 5px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.cont3 > p {
+/* Donate */
+
+
+position: absolute;
+width: 748px;
+height: 42px;
+left: 1200px;
+top: 5px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.cont4 > p {
+/* Events */
+
+
+position: absolute;
+width: 748px;
+height: 42px;
+left: 1370px;
+top: 5px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/*.App-logo {
+  top: 40px;
+}*/
+
+/*.buttons-container {
+  background:rgb(73,69,71);
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}*/
+
+.navbar-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  max-width: 1500px;
+}
+
+.buttons-container {
+
+/* Rectangle 33 */
+
+
+position: absolute;
+width: 1700px;
+height: 5000px;
+left: 7px;
+top: 1998px;
+margin-left: 70px;
+margin-right: 5px;
+
+
+background: #FFFFFF;
+border-radius: 30px 30px 0px 0px;
+}
+
+.buttonpic {
+position: absolute;
+width: 774px;
+height: 483px;
+left: 770px;
+top: 150px;
+
+
+/*box-shadow: 0px 7px 8px 3px rgba(0, 0, 0, 0.25);
+*/
+border-radius: 0px;
+}
+
+.quotepic {
+  /*margin-left: -1000px;*/
+  /* Screen Shot 2021-06-07 at 9.14 1 */
+
+
+position: absolute;
+width: 470px;
+height: 459px;
+left: 150px;
+top: 150px;
+
+
+filter: drop-shadow(6px 9px 4px rgba(0, 0, 0, 0.25));
+}
+
+.quotefont > h1{
+  /* Connect with people from around the world by serving at one of Praise Outreach event. Praise Outreach is a ministry of Praise Nation meeting the needs of people and communities. Join the Movement. Be present. Serve and Lead. Give and Impact. Love and Fight. Spread Hope */
+
+
+position: absolute;
+width: 1003px;
+height: 205px;
+left: 300px;
+top: 700px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #7D7C7C;
+
+}
+
+.quotefont4 > h1{
+  /* Spread Hope */
+
+
+position: absolute;
+width: 1003px;
+height: 205px;
+left: 700px;
+top: 750px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #7D7C7C;
+
+}
+
+.impact{
+  /* Rectangle 37 */
+
+
+position: absolute;
+width: 1421px;
+height: 740px;
+left: 150px;
+top: 1400px;
+
+background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%), #EFEFEF;
+}
+
+.impactquotepic{
+/*position: absolute;*/
+position: absolute;
+width: 681px;
+height: 326px;
+left: 678px;
+top: 100px;
+
+}
+
+.donatebuttonshape {
+  /* Rectangle 34 */
+
+
+position: absolute;
+width: 153px;
+height: 51px;
+left: 300px;
+top: -350px;
+
+background: #E5E5E5;
+border-radius: 50px;
+}
+
+.donate {
+  /* DONATE */
+
+
+position: absolute;
+width: 118px;
+height: 17px;
+left: 320px;
+top: -360px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.signupbuttonshape {
+  /* Rectangle 34 */
+
+
+position: absolute;
+width: 153px;
+height: 51px;
+left: 600px;
+top: -350px;
+
+background: #E5E5E5;
+border-radius: 50px;
+}
+
+.signup {
+  /* SIGNUP */
+
+
+position: absolute;
+width: 118px;
+height: 17px;
+left: 620px;
+top: -360px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.eventbuttonshape {
+  /* Rectangle 34 */
+
+
+position: absolute;
+width: 153px;
+height: 51px;
+left: 900px;
+top: -350px;
+
+background: #E5E5E5;
+border-radius: 50px;
+}
+
+.event {
+  /* SIGNUP */
+
+position: absolute;
+width: 118px;
+height: 17px;
+left: 920px;
+top: -360px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.donatepageL {
+
+/* Donate Page L*/
+
+position: absolute;
+width: 700px;
+height: 460px;
+left: -70px;
+top: 1000px;
+
+filter: drop-shadow(0px 9px 9px rgba(0, 0, 0, 0.25));
+}
+
+.donatepageR {
+  /* Donate Page R */
+
+
+position: absolute;
+width: 706px;
+height: 460px;
+left: 800px;
+top: 1000px;
+
+filter: drop-shadow(0px 9px 9px rgba(0, 0, 0, 0.25));
+}
+
+.lastpic {
+  /* Last pic */
+  /* Rectangle 49 */
+
+
+position: absolute;
+width: 1529px;
+height: 926px;
+left: 70px;
+top: 5000px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.donatefont > h1{
+  /* Donate Page */
+
+
+position: absolute;
+width: 1003px;
+height: 205px;
+left: 170px;
+top: 1490px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #7D7C7C;
+
+}
+
+.signuppagecontainer{
+/* Rectangle 45 */
+
+
+position: absolute;
+width: 1421px;
+height: 856px;
+left: 150px;
+top: 3500px;
+
+background: #F9F9F9;
+}
+
+.signuppageL{
+  /* Screen Shot 2021-06-07 at 10.44 1 */
+
+
+position: absolute;
+width: 748px;
+height: 505px;
+left: 120px;
+top: 3700px;
+
+filter: drop-shadow(0px 9px 9px rgba(0, 0, 0, 0.25));
+
+}
+
+.signuppageR{
+/* Screen Shot 2021-06-07 at 10.42 1 */
+
+
+position: absolute;
+width: 594px;
+height: 397px;
+left: 1000px;
+top: 3750px;
+
+border: 0px solid #000000;
+box-sizing: border-box;
+filter: drop-shadow(0px 9px 9px rgba(0, 0, 0, 0.25));
+}
+
+.immersefont > p{
+  /* signup Page - writing */
+
+
+position: absolute;
+width: 1003px;
+height: 205px;
+left: 350px;
+top: 4300px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 50px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+}
