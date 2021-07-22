@@ -1,0 +1,441 @@
+body {
+  /*font:  Verdana, Arial, Helvetica, sans-serif;*/
+  background-color: black;
+  text-align: center;
+
+  }
+
+/*function to resize the window*/
+.resize{
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+
+.background{
+  display: flex;
+position: relative;
+width: 100%;/*changed from 382px*/
+height: 100vh;
+background: url("Group1.png");
+background-size: cover;
+/*height: 66px;
+/*left: 0px;/*changed from 780px*/
+/*top: 0px;/*changed from 1650px*/
+/*just added*/
+/*background-size: cover;
+/*right: 0px*/
+}
+
+/* .container{
+  background:#000000;
+  height: 130px;
+  display: flex;
+  justify-content:  flex-end;
+  align-items: center;
+  font-size: 1.2rem;
+  position: sticky;
+  top: 140;
+  z-index: 999;
+} */
+
+.eve > h1{
+/* FIND AN EVENT */
+
+position: absolute;
+/* display: flex; */
+width: 1690.7px;
+height: 292.11px;
+left: 2900px;
+top: 6000px;
+
+cursor: pointer;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 106.222px;
+line-height: 124px;
+/*display:flex;*/
+text-align: center;
+letter-spacing: 0.065em;
+text-transform: capitalize;
+color: #FF5A36;
+
+}
+
+.ref > p{
+  /* REACH 2021 */
+
+position: relative;
+width: 1000px;
+height: 343px;
+left: 2500px;
+top: 2800px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 500px;
+line-height: 550px;
+text-align: center;
+letter-spacing: 0.39em;
+color: #FFFFFF;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  max-width: 1500px;
+}
+
+.buttons-container {
+
+/* Rectangle 33 */
+
+
+position: absolute;
+width: 100%;
+height: 19200px;
+top: 7000px;
+/*left: 7px;
+
+/*margin-left: 70px;
+margin-right: 5px;*/
+
+
+background: #FFFFFF;
+border-radius: 30px 30px 0px 0px;
+}
+
+.buttonpic {
+  /* Volunteer pic */
+
+
+  position: absolute;
+  width: 3425.66px;
+  height: 2137.71px;
+  left: 3739.64px;
+  top: 719.29px;
+
+  background: url(AfterReach.png);
+  background-size: cover;
+
+
+border-radius: 0px;
+}
+
+.quotepic {
+  /*margin-left: -1000px;*/
+  /* Your giving picture on main page */
+
+  position: absolute;
+  width: 2080.18px;
+  height: 2031.49px;
+  left: 750.48px;
+  top: 730.29px;
+
+  background: url(quote1.png);
+  background-size: cover;
+  filter: drop-shadow(26.5555px 39.8332px 17.7036px rgba(0, 0, 0, 0.25));
+
+
+}
+
+.quotefont > h1{
+  /* Connect with people from around the world by serving at one of Praise Outreach event. Praise Outreach is a ministry of Praise Nation meeting the needs of people and communities. Join the Movement. Be present. Serve and Lead. Give and Impact. Love and Fight. Spread Hope */
+
+  position: absolute;
+  width: 4000px;
+  height: 907px;
+  left: 25%;
+  top: 3014px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 144px;
+  line-height: 176px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #7D7C7C;
+
+}
+
+
+.impact{
+  /* Impact quote */
+
+position: absolute;
+width: 95%;
+height: 3275.17px;
+left: 200px;
+top: 5000px;
+
+background: #EFEFEF;
+
+}
+
+.impactquotepic{
+/*position: absolute;*/
+/* position: absolute;
+width: 3014.04px;
+height: 1442.85px;
+left: 3000.77px;
+top: 15220.7px; */
+
+
+position: absolute;
+width: 3500.04px;
+height: 2000px;
+left: 3200px;
+top: 600px;
+background: url(impactquote.png);
+background-size: cover;
+
+}
+
+.donatebuttonshape {
+  /* Rectangle 34 */
+
+
+position: absolute;
+width: 153px;
+height: 51px;
+left: 300px;
+top: -350px;
+
+background: #E5E5E5;
+border-radius: 50px;
+}
+
+.givebutton {
+  /* DONATE */
+  position: absolute;
+  width: 898.46px;
+height: 256.7px;
+  left: 40%;
+  top: 7800.16px;
+
+  background: #E5E5E5;
+  border-radius: 221.296px;
+
+cursor: pointer;
+
+}
+
+.signupbuttonshape {
+  /* Rectangle 34 */
+
+
+position: absolute;
+width: 153px;
+height: 51px;
+left: 600px;
+top: -350px;
+
+background: #E5E5E5;
+border-radius: 50px;
+}
+
+
+
+.donatepageL {
+
+/* Donate Page L: image cluster 1 for the left*/
+
+position: absolute;
+width: 3500.04px;
+height: 2000px;
+left: -70px;
+top: 4500px;
+background-image: url(DonatePageL.png);
+background-size: cover;
+
+filter: drop-shadow(0px 9px 9px rgba(0, 0, 0, 0.25));
+}
+
+.donatepageR {
+  /* Donate Page R */
+
+
+  position: absolute;
+  width: 3000.04px;
+  height: 2000px;
+  left: 4250.8px;;
+  top: 4500px;
+  background-image: url(DonatePageR.png);
+  background-size: cover;
+
+  filter: drop-shadow(0px 9px 9px rgba(0, 0, 0, 0.25));}
+
+.lastpic {
+  /* Last pic */
+  /* Rectangle 49 */
+
+
+position: absolute;
+width: 100%;
+height: 150vh;
+/*left: 200px;*/
+/*right: 500px;*/
+top: 7000px;
+/*background: url("LastPhoto.jpg");*/
+background-size: cover;
+/*background: url("LastPhoto.jpg");*/
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.donatefont > h1{
+  /* Donate Page */
+
+
+  position: absolute;
+  width: 4439.19px;
+  height: 907.31px;
+  left: 1089px;
+  top: 6724px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 162.695px;
+  line-height: 198px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #7D7C7C;
+
+
+}
+
+.signuppagecontainer{
+/* Container for sign up page */
+
+
+position: absolute;
+width: 95%;
+height: 4100.17px;
+left: 200px;
+top: 14000px;
+
+background: #F9F9F9;
+}
+
+.signuppageL{
+  /* Screen Shot 2021-06-07 at 10.44 1 */
+
+
+position: absolute;
+width: 3500.04px;
+height: 2400.09px;
+left: 54%;
+top: 14700px;
+
+filter: drop-shadow(0px 9px 9px rgba(0, 0, 0, 0.25));
+background-image: url(SignupPageL.png);
+background-size: cover;
+}
+
+.signuppageR{
+/* Screen Shot 2021-06-07 at 10.42 1 */
+
+
+position: absolute;
+width: 3500.04px;
+height: 2400.09px;
+left: -0.5%;
+top: 14700px;
+
+filter: drop-shadow(0px 9px 9px rgba(0, 0, 0, 0.25));
+background-image: url(SignupPageR.png);
+background-size: cover;
+
+}
+
+.immersefont > p{
+  /* signup Page - writing */
+
+
+position: absolute;
+width: 5003px;
+height: 205px;
+left: 19%;
+top: 17100px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 300px;
+line-height: 350px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+
+/*This is for the logo on the login and signup Pages!!*/
+.lastpic3{
+  /*Praise outreach logo on the login Page */
+
+  position: absolute;
+  width: 2080.17px;
+  height: 3487.65px;
+  left: 72.5%;
+  top: 19205.62px;
+
+  background: url("LastPic1.png");
+}
+
+.lastpic2{
+  /*Praise outreach logo on the login Page */
+
+  position: absolute;
+  width: 2850.17px;
+  height: 3487.65px;
+  left: 35%;
+  top: 19205.62px;
+
+  background: url("LastPic2.png");
+}
+
+.lastpic1{
+  /*Praise outreach logo on the login Page */
+
+  position: absolute;
+  width: 2820.17px;
+  height: 3487.65px;
+  left: 0%;
+  top: 19205.62px;
+
+  background: url("LastPic3.png");
+}
+
+.lastquote{
+  position: absolute;
+  width: 3620.17px;
+  height: 387.65px;
+  left: 28%;
+  top: 21505.62px;
+
+  background: url("LastQuote.png");
+}
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+  span.psw {
+    display: block;
+    float: none;
+  }
+
+  .logo{
+    width: 100%;
+  }
+}
